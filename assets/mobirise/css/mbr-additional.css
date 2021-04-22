@@ -7072,8 +7072,8 @@ a {
   transform: translateY(-5px);
 }
 .cid-sshZAheVBi {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 7rem;
+  padding-bottom: 7rem;
   background-image: url("../../../assets/images/juntechpc-aruba-logo-icon-header.svg");
 }
 @media (max-width: 991px) {
@@ -7257,119 +7257,62 @@ a {
 .cid-srZ06QajhX .social-list {
   color: #000000;
 }
-.cid-stanp5dEmj {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+.cid-svk4oRHlSU {
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
-.cid-stanp5dEmj .mbr-text {
-  text-align: center;
-}
-.cid-stanp5dEmj .mbr-section-subtitle {
-  text-align: center;
-  color: #000000;
-}
-.cid-stanp5dEmj .mbr-section-title {
-  text-align: center;
-  color: #000000;
-}
-.cid-sta4z965sD {
-  padding-top: 1rem;
-  padding-bottom: 2rem;
-  background-color: #ffffff;
-}
-.cid-sta4z965sD .timeline-element {
-  position: relative;
-}
-.cid-sta4z965sD .timelines-container {
+.cid-svk4oRHlSU .icons-media-container {
   display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
   flex-wrap: wrap;
+  padding-top: 4rem;
 }
-.cid-sta4z965sD .image-wrapper img {
-  width: 100%;
-  object-fit: cover;
+.cid-svk4oRHlSU .icons-media-container .mbr-iconfont {
+  font-size: 96px;
+  color: #ffffff;
 }
-.cid-sta4z965sD .mbr-section-title,
-.cid-sta4z965sD .mbr-section-subtitle,
-.cid-sta4z965sD .timeline-date {
-  text-align: center;
+.cid-svk4oRHlSU .icons-media-container .icon-block {
+  padding-bottom: 1rem;
 }
-.cid-sta4z965sD .iconBackground {
-  position: absolute;
-  width: 20px;
-  height: 20px;
-  border-radius: 50%;
-  border: 2px solid #0684ff;
-  margin-left: -9px;
+.cid-svk4oRHlSU .mbr-text {
+  color: #ffffff;
 }
-@media (max-width: 767px) {
-  .cid-sta4z965sD .iconBackground {
-    left: 15px;
-    top: 30px;
-  }
+.cid-svk4oRHlSU .card {
+  padding-bottom: 1.5rem;
 }
-@media (min-width: 768px) {
-  .cid-sta4z965sD .iconBackground {
-    top: 70px;
-    left: 50%;
-  }
+.cid-svk4oRHlSU .card-wrapper {
+  min-height: 220px;
+  transition: all 0.3s;
+  border-radius: 4px;
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-.cid-sta4z965sD .row:after {
-  content: "";
-  position: absolute;
-  background-color: #0684ff;
-  width: 2px;
+.cid-svk4oRHlSU .card-wrapper .mbr-iconfont {
+  display: block;
+  font-size: 4rem;
+  color: #ffffff;
+  margin-bottom: 2rem;
 }
-@media (max-width: 767px) {
-  .cid-sta4z965sD .row:after {
-    height: calc(100% + 30px);
-    top: 50px;
-    left: 15px;
-  }
+.cid-svk4oRHlSU .card-wrapper .card-title {
+  color: #ffffff;
 }
-@media (min-width: 768px) {
-  .cid-sta4z965sD .row:after {
-    height: calc(100% + 28px);
-    top: 90px;
-    left: 50%;
-  }
-}
-@media (max-width: 767px) {
-  .cid-sta4z965sD .timeline-date-wrapper,
-  .cid-sta4z965sD .timeline-text-wrapper,
-  .cid-sta4z965sD .image-wrapper {
-    padding: 0rem;
-    padding-left: 2rem;
-  }
-  .cid-sta4z965sD .mbr-timeline-date {
-    text-align: left !important;
-  }
-  .cid-sta4z965sD .mbr-timeline-title {
-    text-align: left;
-    margin-top: 1rem;
-  }
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-sta4z965sD .timeline-date-wrapper,
-  .cid-sta4z965sD .timeline-text-wrapper {
-    padding: 1rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-sta4z965sD .timeline-date-wrapper,
-  .cid-sta4z965sD .timeline-text-wrapper,
-  .cid-sta4z965sD .image-wrapper {
-    padding: 2rem;
-  }
-}
-.cid-sta4z965sD .mbr-section-title {
+.cid-svk4oRHlSU H1 {
   color: #000000;
 }
-.cid-sta4z965sD .mbr-timeline-title {
-  color: #000000;
+.cid-svk4oRHlSU .mbr-text,
+.cid-svk4oRHlSU .mbr-section-btn {
+  color: #232323;
 }
-.cid-sta4z965sD .mbr-section-subtitle {
-  color: #353535;
+.cid-svk4oRHlSU .card-wrapper .card-title,
+.cid-svk4oRHlSU .card-box {
+  color: #232323;
 }
 .cid-stao8ay6I9 {
   padding-top: 1rem;
