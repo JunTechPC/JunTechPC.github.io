@@ -6,19 +6,19 @@ body {
 }
 .display-1 {
   font-family: 'GOODTIME';
-  font-size: 4.5rem;
+  font-size: 3.6rem;
   line-height: 1.1;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 5.625rem;
+  font-size: 4.5rem;
 }
 .display-2 {
   font-family: 'Lato', sans-serif;
-  font-size: 3.5rem;
+  font-size: 2.6rem;
   line-height: 1.1;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 4.375rem;
+  font-size: 3.25rem;
 }
 .display-4 {
   font-family: 'Lato', sans-serif;
@@ -51,19 +51,19 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 992px) {
   .display-1 {
-    font-size: 3.6rem;
+    font-size: 2.88rem;
   }
 }
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.15rem;
-    font-size: calc( 2.225rem + (4.5 - 2.225) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.1 * (2.225rem + (4.5 - 2.225) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.52rem;
+    font-size: calc( 1.91rem + (3.6 - 1.91) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.1 * (1.91rem + (3.6 - 1.91) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 2.8rem;
-    font-size: calc( 1.875rem + (3.5 - 1.875) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.3 * (1.875rem + (3.5 - 1.875) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.08rem;
+    font-size: calc( 1.56rem + (2.6 - 1.56) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.3 * (1.56rem + (2.6 - 1.56) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.88rem;
@@ -707,7 +707,7 @@ a {
   }
 }
 .cid-su1XfP1gCB .mbr-section-title {
-  color: #0684ff;
+  color: #ffffff;
   text-align: center;
 }
 .cid-su1XfP1gCB .mbr-text,
@@ -23497,8 +23497,25 @@ a {
 .cid-sh6aPGIrxC .mbr-social-likes {
   color: #000000;
 }
+.cid-svCnPoCpgz {
+  padding-top: 2rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-svCnPoCpgz .mbr-text {
+  color: #c1c1c1;
+}
+.cid-svCnPoCpgz .mbr-text,
+.cid-svCnPoCpgz .mbr-section-btn {
+  text-align: center;
+  color: #232323;
+}
+.cid-svCnPoCpgz H3 {
+  text-align: center;
+  color: #000000;
+}
 .cid-sgq6kxeWoT {
-  padding-top: 1rem;
+  padding-top: 0rem;
   padding-bottom: 1rem;
   background-color: #ffffff;
 }
@@ -23508,6 +23525,9 @@ a {
 .cid-sgq6kxeWoT .mbr-section-title {
   text-align: center;
   color: #000000;
+}
+.cid-sgq6kxeWoT .mbr-section-subtitle {
+  text-align: center;
 }
 .cid-sgq8EPPsOr {
   padding-top: 0rem;
