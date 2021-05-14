@@ -1867,8 +1867,25 @@ a {
 .cid-sktiKHnyIR .mbr-text {
   text-align: center;
 }
-.cid-s9bM2VrCtT {
+.cid-srzCZHrBvw {
   padding-top: 1rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-srzCZHrBvw .mbr-text {
+  color: #c1c1c1;
+}
+.cid-srzCZHrBvw .mbr-text,
+.cid-srzCZHrBvw .mbr-section-btn {
+  text-align: center;
+  color: #232323;
+}
+.cid-srzCZHrBvw H3 {
+  text-align: center;
+  color: #000000;
+}
+.cid-s9bM2VrCtT {
+  padding-top: 0rem;
   padding-bottom: 1rem;
   background-color: #ffffff;
 }
@@ -1898,23 +1915,6 @@ a {
 }
 .cid-s9bM2VrCtT .mbr-section-title,
 .cid-s9bM2VrCtT .mbr-social-likes {
-  color: #000000;
-}
-.cid-srzCZHrBvw {
-  padding-top: 1rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-srzCZHrBvw .mbr-text {
-  color: #c1c1c1;
-}
-.cid-srzCZHrBvw .mbr-text,
-.cid-srzCZHrBvw .mbr-section-btn {
-  text-align: center;
-  color: #232323;
-}
-.cid-srzCZHrBvw H3 {
-  text-align: center;
   color: #000000;
 }
 .cid-stDAnUIDEC {
