@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "JunTechPC Aruba",
-    "currentPage": "webdesign-seo-services-aruba.html",
+    "currentPage": "juntechpc-aruba-covid-19.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -73,7 +73,7 @@
     "robotsText": "Sitemap: https://juntechpc.ga/sitemap.xml\nUser-agent: *\nUser-agent: Twitterbot\n",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-C4Y01HT04Z\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-C4Y01HT04Z');\n</script>\n\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"http://schema.org/\",\n  \"@type\": \"Person\",\n  \"name\": \"Juny Engelhart\",\n  \"image\": \"https://pbs.twimg.com/profile_images/1374607610951966724/nrHEMP5e_400x400.jpg\",\n  \"url\": \"https://juntechpc.ga/\",\n  \"jobTitle\": \"freelance website and graphic designer \",\n  \"worksFor\": {\n    \"@type\": \"Organization\",\n    \"name\": \"JunTechPC Aruba\"\n  }\n  \"sameAs\": [\"https://www.facebook.com/juntechpcservices\", \"https://twitter.com/JunTechPC_aw\"]\n}\n</script>",
     "publishChangesOnly": true,
-    "mbrsiteDomain": "likh5n4r55",
+    "mbrsiteDomain": "vgf0pvrhic",
     "witsec-language": "en",
     "witsec-mailform": false,
     "witsec-white-label": true,
@@ -1676,7 +1676,7 @@
     "contact-juntechpc-aruba.html": {
       "settings": {
         "title": "Get in Touch With Us Today |  JunTechPC Aruba",
-        "order": 28,
+        "order": 27,
         "meta_descr": "Need Computer or Web Design Services? JunTechPC can help! We look forward to providing our customers with continued excellent service and support in Aruba.",
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-aruba-get-in-touch-with-us-1.svg"
       },
@@ -3289,7 +3289,7 @@
     },
     "about-juntechpc-aruba.html": {
       "settings": {
-        "title": "What is JunTechPC Aruba all about? - A few words about us",
+        "title": "What is JunTechPC Aruba all about? - About Us",
         "order": 1,
         "meta_descr": "JunTechPC was established in 2005 by Juny Engelhart, specializing in Website Design, SEO Services, Computer Repair and Support for clients in Aruba.",
         "meta_image": "@PROJECT_PATH@/assets/images/about-us-and-what-we-do-juntechpc-aruba.svg"
@@ -4821,7 +4821,7 @@
     "juntechpc-aruba-covid-19.html": {
       "settings": {
         "title": "JunTechPC Aruba - Services and Support During COVID-19",
-        "order": 30,
+        "order": 29,
         "meta_descr": "We’re taking the necessary steps to maintain the well being of both our customers and ourselves. JunTechPC will continue to provide support to our existing and new clients in Aruba. ",
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc%20aruba-coronavirus-covid-20.svg"
       },
@@ -6197,7 +6197,7 @@
     "juntechpc-seo-webdesign-faqs..html": {
       "settings": {
         "title": "JunTechPC Aruba -  FAQ's on Web Design and SEO",
-        "order": 29,
+        "order": 28,
         "meta_descr": "I cover many of the common questions that clients have asked me about Website Design over the years. Contact us to get your website up and running!",
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-aruba-frequently-asked-questions-1.svg"
       },
@@ -6231,7 +6231,7 @@
             }
           },
           "_name": "header18",
-          "_customHTML": "<section class=\"header18\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"7\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n\n        <input type=\"range\" inline name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <select title=\"Align\" name=\"contentAlign\">\n            <option value>Left</option>\n            <option value=\"justify-content-center\" selected>Center</option>\n            <option value=\"justify-content-end\">Right</option>\n        </select>\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\" checked>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value>\n            <input type=\"color\" title=\"Color\" value=\"#353535\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Gradient Bg\" name=\"gradientBg\" condition=\"bg.type == 'color'\" checked>\n        <input type=\"color\" title=\"Color 2\" name=\"gradientColor2\" value=\"#000000\" condition=\"gradientBg && bg.type == 'color'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#4479d9\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"align-center\" mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row {{contentAlign}}\">\n            <div class=\"col-12 col-lg-{{textWidth}}\">\n                <h1 class=\"mbr-section-title mbr-fonts-style mbr-white mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">Frequently Asked Questions&nbsp;</h1>\n                <h2 class=\"mbr-section-subtitle mbr-fonts-style mbr-white mb-3\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-5\" mbr-if=\"showSubitle\">SEO And Web Design FAQs</h2>\n                <p class=\"mbr-text mbr-fonts-style mbr-white\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><br>FAQ's&nbsp;Web Solutions</p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\"><a class=\"btn btn-primary\" href=\"juntechpc-services-aruba.html\" data-app-placeholder=\"Type Text\">SEO and Web Design Services</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"header18\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"7\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"range\" inline name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"10\" step=\"1\">\n        <select title=\"Align\" name=\"contentAlign\">\n            <option value>Left</option>\n            <option value=\"justify-content-center\" selected>Center</option>\n            <option value=\"justify-content-end\">Right</option>\n        </select>\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\" checked>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value>\n            <input type=\"color\" title=\"Color\" value=\"#353535\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Gradient Bg\" name=\"gradientBg\" condition=\"bg.type == 'color'\" checked>\n        <input type=\"color\" title=\"Color 2\" name=\"gradientColor2\" value=\"#000000\" condition=\"gradientBg && bg.type == 'color'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#4479d9\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"align-center\" mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row {{contentAlign}}\">\n            <div class=\"col-12 col-lg-{{textWidth}}\">\n                <h1 class=\"mbr-section-title mbr-fonts-style mbr-white mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">Frequently Asked Questions&nbsp;</h1>\n                <h2 class=\"mbr-section-subtitle mbr-fonts-style mbr-white mb-3\" data-app-selector=\".mbr-section-subtitle\" mbr-theme-style=\"display-5\" mbr-if=\"showSubitle\">SEO And Web Design FAQs</h2>\n                <p class=\"mbr-text mbr-fonts-style mbr-white\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><br>FAQ's&nbsp;Web Solutions</p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\"><a class=\"btn btn-primary\" href=\"juntechpc-services-aruba.html\" data-app-placeholder=\"Type Text\">Check out the services we offer</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "header18-4k",
           "_isUserblock": true,
           "_sourceTheme": "mobirise5",
@@ -7886,7 +7886,7 @@
     "seo-services-aruba.html": {
       "settings": {
         "title": "Affordable SEO Services - JunTechPC Aruba",
-        "order": 10,
+        "order": 9,
         "meta_descr": "Improve your website, show up higher on Google, and attract more customers with help from our SEO services.",
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-aruba-seo-service-solutions.svg"
       },
@@ -9505,8 +9505,8 @@
     },
     "juntechpc-services-aruba.html": {
       "settings": {
-        "title": "Website and Graphic Design Services We Offer - JunTechPC Aruba",
-        "order": 4,
+        "title": "Website and Graphic Design Services - JunTechPC Aruba",
+        "order": 3,
         "meta_descr": "We provide a wide range of services including Website Design, SEO Services, Computer Repair and Support for small business in Aruba. We’ll tailor our services to fit your needs and your budget. ",
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-aruba-take-a-look-at-our-services-1.svg"
       },
@@ -11082,7 +11082,7 @@
     "technical-seo-audit-aruba.html": {
       "settings": {
         "title": "JunTechPC Aruba - Technical SEO Audit Services ",
-        "order": 25,
+        "order": 24,
         "meta_descr": "Technical Site Audits bring to light any problem that’s preventing your website from ranking higher in search results.",
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-aruba-technical-seo-audits.svg"
       },
@@ -12698,7 +12698,7 @@
     "on-page-off-page-seo-services.html": {
       "settings": {
         "title": "JunTechPC Aruba - On-Page and Off-Page SEO",
-        "order": 22,
+        "order": 21,
         "meta_descr": "When we talk about search engine optimization, we need to discuss two of the main components, which are Off-page and On-page SEO services.",
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-aruba-on-page-off-page-optimization.svg"
       },
@@ -14331,7 +14331,7 @@
     "keyword-research-services.html": {
       "settings": {
         "title": "JunTechPC Aruba - Keyword Research and Planning",
-        "order": 21,
+        "order": 20,
         "meta_descr": "Keyword research tells you how your customers are finding you. Knowing the right keywords to target is the heart of SEO effectiveness.",
         "meta_image": "@PROJECT_PATH@/assets/images/keyword-research-planningjuntechpc-aruba.svg"
       },
@@ -14398,7 +14398,7 @@
           },
           "_name": "header14",
           "_sourceTheme": "mobirise5",
-          "_customHTML": "<section class=\"header14\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"7\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"7\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline name=\"imageWidth\" title=\"Image\" min=\"4\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Reverse\" name=\"reverseContent\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Remove Padding\" name=\"imageFullWidth\" condition=\"fullWidth\">\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\" checked>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/juntechpc-aruba-logo-icon-header.svg\" parallax selected>\n            <input type=\"color\" title=\"Color\" value=\"#111111\">\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.3\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center align-items-center\">\n            <div class=\"col-12 col-md-{{imageWidth}} image-wrapper\">\n                <a href=\"keyword-research-services.html\"><img src=\"@PROJECT_PATH@/assets/images/keyword-research-planningjuntechpc-aruba.svg\" alt=\"Keyword-Research-PlanningJunTechPC-Aruba\"></a>\n            </div>\n            <div class=\"col-12 col-md\">\n                <div class=\"text-wrapper\">\n                    <h1 class=\"mbr-section-title mbr-fonts-style mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">Keyword Research and Planning</h1>\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                        Unlock The Key To Visibility</p>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"technical-seo-audit-aruba.html\" data-app-placeholder=\"Type Text\">Technical SEO Audits &gt;</a> <a class=\"btn btn-white-outline\" href=\"seo-analysis-reporting.html\" data-app-placeholder=\"Type Text\">Analytics Services &gt;</a></div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"header14\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n    'mbr-fullscreen': fullScreen,\n    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"7\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"7\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline name=\"imageWidth\" title=\"Image\" min=\"4\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Reverse\" name=\"reverseContent\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Remove Padding\" name=\"imageFullWidth\" condition=\"fullWidth\">\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\" checked>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/juntechpc-aruba-logo-icon-header.svg\" parallax selected>\n            <input type=\"color\" title=\"Color\" value=\"#111111\">\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.3\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center align-items-center\">\n            <div class=\"col-12 col-md-{{imageWidth}} image-wrapper\">\n                <a href=\"keyword-research-services.html\"><img src=\"@PROJECT_PATH@/assets/images/keyword-research-planning-juntechpc-aruba-1.svg\" alt=\"Keyword-Research-PlanningJunTechPC-Aruba\"></a>\n            </div>\n            <div class=\"col-12 col-md\">\n                <div class=\"text-wrapper\">\n                    <h1 class=\"mbr-section-title mbr-fonts-style mb-3\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">Keyword Research and Planning</h1>\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                        Unlock The Key To Visibility</p>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"technical-seo-audit-aruba.html\" data-app-placeholder=\"Type Text\">Technical SEO Audits &gt;</a> <a class=\"btn btn-white-outline\" href=\"seo-analysis-reporting.html\" data-app-placeholder=\"Type Text\">Analytics Services &gt;</a></div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "header14-wf",
           "_isUserblock": true,
           "_cid": "ssT4ho8pYj",
@@ -14457,7 +14457,7 @@
           },
           "_name": "divider",
           "_sourceTheme": "dentauram4",
-          "_customHTML": "<section class=\"mbr-section\" group=\"Dentaura Divider\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>BLOCK</header>\n\t\t<input type=\"range\" inline=\"\" title=\"Block Height\" name=\"heightBlock\" min=\"50\" max=\"250\" step=\"1\" value=\"68\">\n        <header>SKEW</header>\n        <input type=\"range\" inline=\"\" title=\"Height\" name=\"heightSkew\" min=\"20\" max=\"250\" step=\"1\" value=\"109\">\n        <input type=\"range\" inline=\"\" title=\"Angle\" name=\"angleSkew\" min=\"-6\" max=\"6\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Skew Color\" name=\"bgColortwo\" value=\"#0684ff\">\n        <header>BACKGROUND</header>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n        <header>SHADOW</header>\n        <input type=\"checkbox\" title=\"Shadow\" name=\"shadow\">\n        <input type=\"color\" title=\"Shadow Color\" name=\"shadowColor\" value=\"#6ec7f2\" condition=\"shadow\">\n        <input type=\"range\" inline=\"\" title=\"Shadow Height\" name=\"shadowHeight\" min=\"-10\" max=\"1\" step=\"1\" value=\"-8\" condition=\"shadow\">\n        <input type=\"range\" inline=\"\" title=\"Shadow Blur Radius\" name=\"shadowBlur\" min=\"2\" max=\"8\" step=\"1\" value=\"5\" condition=\"shadow\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container-fluid\">\n        <div class=\"dentaura-cover\"><div class=\"dentaura-skew\"></div></div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section\" group=\"Dentaura Divider\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>BLOCK</header>\n\t\t<input type=\"range\" inline title=\"Block Height\" name=\"heightBlock\" min=\"50\" max=\"250\" step=\"1\" value=\"68\">\n        <header>SKEW</header>\n        <input type=\"range\" inline title=\"Height\" name=\"heightSkew\" min=\"20\" max=\"250\" step=\"1\" value=\"109\">\n        <input type=\"range\" inline title=\"Angle\" name=\"angleSkew\" min=\"-6\" max=\"6\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Skew Color\" name=\"bgColortwo\" value=\"#0684ff\">\n        <header>BACKGROUND</header>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n        <header>SHADOW</header>\n        <input type=\"checkbox\" title=\"Shadow\" name=\"shadow\">\n        <input type=\"color\" title=\"Shadow Color\" name=\"shadowColor\" value=\"#6ec7f2\" condition=\"shadow\">\n        <input type=\"range\" inline title=\"Shadow Height\" name=\"shadowHeight\" min=\"-10\" max=\"1\" step=\"1\" value=\"-8\" condition=\"shadow\">\n        <input type=\"range\" inline title=\"Shadow Blur Radius\" name=\"shadowBlur\" min=\"2\" max=\"8\" step=\"1\" value=\"5\" condition=\"shadow\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container-fluid\">\n        <div class=\"dentaura-cover\"><div class=\"dentaura-skew\"></div></div>\n    </div>\n</section>",
           "_anchor": "divider-126",
           "_isUserblock": true,
           "_cid": "swmWWNgCWy",
@@ -15962,7 +15962,7 @@
     "seo-analysis-reporting.html": {
       "settings": {
         "title": "JunTechPC Aruba - Web Analytics and Reporting",
-        "order": 27,
+        "order": 26,
         "meta_descr": "Analytics platforms measure activity and behavior on a website, for example: how many users visit, how long they stay and which pages they visit.\n",
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-aruba-web-analytics-services.svg"
       },
@@ -17616,7 +17616,7 @@
     "organic-seo-services.html": {
       "settings": {
         "title": "JunTechPC Aruba - Organic Search Optimization",
-        "order": 24,
+        "order": 23,
         "meta_descr": "Organic Search Engine Optimization is the most significant part that must be focused on after your website has been developed if you want to accomplish something in online sales. ",
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-organic-search-engine-optimization-553x553.png"
       },
@@ -19173,7 +19173,7 @@
     "link-building-services.html": {
       "settings": {
         "title": "JunTechPC Aruba - Link Building Services",
-        "order": 26,
+        "order": 25,
         "meta_descr": "A successful link building strategy is one of the most important factors of SEO ranking. A quality link can lead to a significant increase in referral traffic.",
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-aruba-link-building-3.svg"
       },
@@ -20805,7 +20805,7 @@
     "responsive-web-design-rwd.html": {
       "settings": {
         "title": "JunTechPC Aruba - Responsive Web Design (RWD)",
-        "order": 13,
+        "order": 12,
         "meta_descr": "Having a website is important for small business. Your website should be an accurate representation of your company. Let us built a beautiful website for you.",
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-aruba-responsive-website-design.svg"
       },
@@ -22446,7 +22446,7 @@
     "website-redesigning-services.html": {
       "settings": {
         "title": "JunTechPC Aruba - Website Redesign Services",
-        "order": 14,
+        "order": 13,
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-aruba-website-redesign-services.svg",
         "meta_descr": "Redesign a neglected website can bring them back to life based on two aspects: visual appearance and the website’s visibility in search engines."
       },
@@ -24051,7 +24051,7 @@
     "dynamic-website-design-services.html": {
       "settings": {
         "title": "JunTechPC Aruba - Dynamic Website Design",
-        "order": 18,
+        "order": 17,
         "meta_descr": "Dynamic sites take content and data from a number of locations to render the website. This is done using a server-side language to connect the data and relevant files together. ",
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-dynamic-website-design.svg"
       },
@@ -25736,7 +25736,7 @@
     "static-website-design-services.html": {
       "settings": {
         "title": "JunTechPC Aruba - Static Website Design Service",
-        "order": 16,
+        "order": 15,
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-aruba-static-website-design.svg",
         "meta_descr": "A static website primarily loads ‘static’ content. They are incredibly powerful as well as fast, secure, and extremely easy to work with!"
       },
@@ -27377,7 +27377,7 @@
     "branding-graphic-design-services.html": {
       "settings": {
         "title": "JunTechPC Aruba - Graphic Design Services",
-        "order": 19,
+        "order": 18,
         "meta_descr": "We want to hear what you’re saying about your brand. From your logo and social media graphics to website design influences how people feel about your brand.",
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-aruba-graphic-design-services.svg"
       },
@@ -29019,7 +29019,7 @@
     "mobile-first-website-design.html": {
       "settings": {
         "title": "JunTechPC Aruba - Mobile-First Web Design",
-        "order": 12,
+        "order": 11,
         "meta_image": "@PROJECT_PATH@/assets/images/mobile-first-website-design-1152x847.png",
         "meta_descr": "Mobile-first Design will significantly improve your brand perception and your mobile website user engagement. Positive customer experience = more business."
       },
@@ -30575,7 +30575,7 @@
     "user-friendly-design.html": {
       "settings": {
         "title": "JunTechPC Aruba - User Friendly Website",
-        "order": 20,
+        "order": 19,
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-aruba-user-experience-design-social-image.svg",
         "meta_descr": "Having a well-thought-out User Interface (UI) and User Experience (UX) Design will help users navigate your website with ease."
       },
@@ -30889,7 +30889,7 @@
           },
           "_name": "image3",
           "_sourceTheme": "mobirise5",
-          "_customHTML": "<section class=\"image3\" group=\"Images & Videos\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n        <input type=\"range\" name=\"textWidth\" title=\"Image\" min=\"4\" max=\"12\" step=\"1\" value=\"4\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"../_images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-12 col-lg-{{textWidth}}\">\n                <div class=\"image-wrapper\">\n                    <img src=\"@PROJECT_PATH@/assets/images/juntechpc-user-experience-design-aruba.svg\" alt=\"Mobirise\">\n                    <p class=\"mbr-description mbr-fonts-style mt-2 align-center\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-description\">\n                        Image Description</p>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"image3\" group=\"Images & Videos\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\" condition=\"fullScreen == false\">\n        <input type=\"range\" name=\"textWidth\" title=\"Image\" min=\"4\" max=\"12\" step=\"1\" value=\"4\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"../_images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-12 col-lg-{{textWidth}}\">\n                <div class=\"image-wrapper\">\n                    <a href=\"user-friendly-design.html\"><img src=\"@PROJECT_PATH@/assets/images/juntechpc-user-experience-design-aruba.svg\" alt=\"User-Experience-UX-Design-JunTechpc-Aruba\"></a>\n                    <p class=\"mbr-description mbr-fonts-style mt-2 align-center\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-description\">\n                        Image Description</p>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "sxnaWPiBCL",
           "_anchor": "image3-135",
           "_protectedParams": [],
@@ -32106,7 +32106,7 @@
     "website-maintenance-services.html": {
       "settings": {
         "title": "JunTechPC Aruba - Website Maintenance and Support",
-        "order": 15,
+        "order": 14,
         "meta_image": "@PROJECT_PATH@/assets/images/website-.maintenance-services-juntechpc-aruba.svg",
         "meta_descr": "Keeping a website current and relevant. Our website maintenance services are geared to maximize your online presence, engage customers with fresh content."
       },
@@ -33629,8 +33629,8 @@
     },
     "image-seo-optimization.html": {
       "settings": {
-        "title": "JunTechPC Aruba - Optimize Your Images for a Faster Website",
-        "order": 23,
+        "title": "JunTechPC Aruba - Optimize Images for a Faster Website",
+        "order": 22,
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-aruba-image%20optimization.svg",
         "meta_descr": "Image optimization is still an important factor in SEO for helping your site rank higher. We cannot overlook the importance of image optimization in SEO."
       },
@@ -37065,7 +37065,7 @@
     "computer-services-aruba.html": {
       "settings": {
         "title": "Computer Services and Support - JunTechPC Aruba",
-        "order": 11,
+        "order": 10,
         "meta_descr": "We strive to make sure customers in need of computer repair receive quality service. If you are experiencing computer problems get in touch with us.",
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc%20aruba-computer-services-support.svg"
       },
@@ -38694,7 +38694,7 @@
     "about-juntechpc.html": {
       "settings": {
         "title": "About Us and What We Do - JunTechPC Aruba",
-        "order": 2,
+        "order": 31,
         "meta_descr": "JunTechPC was established in 2005 by Juny Engelhart, specializing in Website Design, SEO Services, Computer Repair and Support for clients in Aruba.",
         "meta_image": "@PROJECT_PATH@/assets/images/about-us-and-what-we-do-juntechpc-aruba.svg"
       },
@@ -40197,7 +40197,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 8,
+        "order": 7,
         "meta_image": "@PROJECT_PATH@/assets/images/website-design-portfolio-juntechpc-aruba-2.svg"
       },
       "components": [
@@ -42198,7 +42198,7 @@
     "web-design-services-aruba.html": {
       "settings": {
         "title": "Website Design Services - JunTechPC Aruba",
-        "order": 5,
+        "order": 4,
         "meta_descr": "JunTechPC is a web design agency based on the island of Aruba that specializes in, web design and SEO helping Small business to increase leads.",
         "meta_image": "@PROJECT_PATH@/assets/images/web-design-services-solutions-juntechpc-aruba.svg"
       },
@@ -45522,7 +45522,7 @@
     "cdn-hosting-providers.html": {
       "settings": {
         "title": "CDN Web Hosting Providers - JunTechPC Aruba",
-        "order": 7,
+        "order": 6,
         "meta_image": "@PROJECT_PATH@/assets/images/cdn_connected_world_juntechpc-aruba.svg",
         "meta_descr": "Host Your Website with Reliable and Scalable Hosting Service Provider. Fast, Powerful CDN Web Hosting  for your business with excellent support. "
       },
@@ -47178,7 +47178,7 @@
     "team-juntechpc-aruba.html": {
       "settings": {
         "title": "Meet Our Creative Team - JunTechPC Aruba",
-        "order": 3,
+        "order": 2,
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-aruba-meet-our-creative-team.svg",
         "meta_descr": "Hi. Thanks for checking out my website and design work. I’m a freelance website & graphic designer with more than 5 years of experience in Web Design and SEO Services."
       },
@@ -48560,7 +48560,7 @@
     "juntechpc-web-design-process.html": {
       "settings": {
         "title": "Our Website Design Process - JunTechPC Aruba",
-        "order": 6,
+        "order": 5,
         "meta_descr": "It begins with understanding the client needs. We use a step-by-step process in order to effectively manage the creation of a new website from start to finish.",
         "meta_image": "@PROJECT_PATH@/assets/images/web-design-process-juntechpc-aruba-1.svg"
       },
@@ -50182,7 +50182,7 @@
     "juntechpc-aruba-seo.html": {
       "settings": {
         "title": "SEO | Search Engine Optimization - JunTechPC Aruba",
-        "order": 9,
+        "order": 8,
         "meta_descr": "SEO is the process of ensuring your website is compatible with search engine guidelines so that it can be crawled and indexed without any problems.",
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-aruba-what-is-your-seo-score-1-555x428.png"
       },
@@ -51704,7 +51704,7 @@
     "privacy-policy.html": {
       "settings": {
         "title": "JunTechPC Aruba - Privacy Policy",
-        "order": 31,
+        "order": 30,
         "meta_descr": "JunTechPC Aruba - Privacy Policy"
       },
       "components": [
@@ -53391,7 +53391,7 @@
     "static-website-package.html": {
       "settings": {
         "title": "Static Website Design Pricing & Packages - JunTechPC Aruba",
-        "order": 17,
+        "order": 16,
         "meta_descr": "Static Website Design Pricing & Packages. JunTechPC at its basic provides static website design services in Aruba. Interested? Let’s make something awesome together!",
         "meta_image": "@PROJECT_PATH@/assets/images/juntechpc-aruba-static-website-design-packages-2.svg"
       },
