@@ -7,7 +7,7 @@ body {
   font-family: Jost;
 }
 .display-1 {
-  font-family: 'GOODTIME';
+  font-family: 'Jost', sans-serif;
   font-size: 4.8rem;
   line-height: 1.1;
 }
@@ -684,53 +684,38 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-swmZSBL1xv {
-  padding-top: 7rem;
-  padding-bottom: 7rem;
-  background-image: url("../../../assets/images/juntechpc-aruba-logo-icon-header-index.svg");
+.cid-sy9NUZEShJ {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/juntechpc-aruba-logo-icon-header.svg");
 }
-.cid-swmZSBL1xv .mbr-text,
-.cid-swmZSBL1xv .mbr-section-btn {
-  text-align: center;
+@media (max-width: 991px) {
+  .cid-sy9NUZEShJ .image-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+.cid-sy9NUZEShJ .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+@media (min-width: 992px) {
+  .cid-sy9NUZEShJ .text-wrapper {
+    padding: 0 2rem;
+  }
+}
+@media (max-width: 768px) {
+  .cid-sy9NUZEShJ .text-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+.cid-sy9NUZEShJ .mbr-section-title {
   color: #ffffff;
-}
-.cid-swmZSBL1xv .mbr-section-title {
   text-align: center;
+}
+.cid-sy9NUZEShJ .mbr-text,
+.cid-sy9NUZEShJ .mbr-section-btn {
   color: #ffffff;
-}
-.cid-swmZSBL1xv .reveal {
-  -webkit-transition: all 400ms;
-  transition: all 400ms;
-}
-.cid-swmZSBL1xv .reveal span {
-  display: inline-block;
-  -webkit-transition: all 400ms;
-  transition: all 400ms;
-}
-.cid-swmZSBL1xv .reveal span:after {
-  content: "";
-  position: absolute;
-  font-size: 20px;
-  font-weight: 700;
-  bottom: -10px;
-  left: 50%;
-  width: 200px;
   text-align: center;
-  opacity: 0;
-  transform: translateX(-50%) scale(0);
-  transition: all 400ms;
-}
-.cid-swmZSBL1xv .reveal:hover {
-  color: rgba(0, 0, 0, 0.1);
-}
-.cid-swmZSBL1xv .reveal:hover span {
-  transform: scale(2);
-  color: #0684ff;
-  margin: 0 45px;
-}
-.cid-swmZSBL1xv .reveal:hover span:after {
-  opacity: 1;
-  transform: translateX(-50%) scale(1);
 }
 .cid-swn2YiDOwy {
   padding-top: 0px;
